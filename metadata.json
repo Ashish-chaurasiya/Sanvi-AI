@@ -1,0 +1,8 @@
+{
+  "name": "Sanvii.AI - AI Career & Learning Navigator",
+  "description": "An advanced AI-powered career growth platform that features interactive chat, custom learning paths, resume analysis, and a personalized career profile wizard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
